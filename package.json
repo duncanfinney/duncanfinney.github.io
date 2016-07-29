@@ -1,0 +1,10 @@
+{
+  "name": "duncanfinney.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer"
+  },
+  "author": "",
+  "license": "ISC"
+}
