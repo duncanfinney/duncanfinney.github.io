@@ -1726,3 +1726,7 @@ footer {
   width: 448px;
   height: auto;
 }
+
+#home .header-background {
+  background: #3e3e3e !important;
+}
